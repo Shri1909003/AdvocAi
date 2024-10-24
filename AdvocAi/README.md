@@ -12,7 +12,7 @@ AdvocAI is an AI-powered legal advisor application that provides users with quic
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
+
 
 ## Introduction
 
@@ -70,11 +70,4 @@ Contributions are welcome! If you have suggestions for improvements or find any 
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-## Contact
 
-For any questions or support, please contact:
-
-- **Omkar Khanai**
-- **Email**: [subashkhanai1974@gmail.com](mailto:subashkhanai1974@gmail.com)
-- **LinkedIn**: [Omkar Khanai](https://www.linkedin.com/in/omkarkhanai)
-- **GitHub**: [Omkar Khanai](https://github.com/OmkarKhanai)
